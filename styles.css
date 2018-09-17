@@ -11,6 +11,11 @@ a {
     text-decoration: none;
 }
 
+img {
+    width: 100%;
+    height: auto;
+}
+
 h3 {
     color: rgba(204, 204, 204, 0.05)
 }
