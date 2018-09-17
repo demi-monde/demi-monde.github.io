@@ -1,5 +1,5 @@
 body {
-    background: #000;
+    background: rgb(56, 21, 21);
     color: #ccc;
     margin: 0 0 0 18pt;
     font-family: Optima, sans-serif;
@@ -9,6 +9,10 @@ body {
 a {
     color: #117;
     text-decoration: none;
+}
+
+h3 {
+    color: rgba(204, 204, 204, 0.05)
 }
 
 #main {
@@ -28,11 +32,11 @@ a {
     position: absolute;
     height: 100%;
     width: 25%;
-    color: #333;
-    background: #999;
+    color: #ccc;
+    background: rgb(88, 33, 33);
     margin-left: 6px;
     border-left: thin #000 solid;
     border-bottom: thin #000 solid;
     padding: 9px;
-    font-size: 80%
+    font-size: 60%
 }
