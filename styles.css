@@ -15,8 +15,24 @@ h4 {
     color: rgba(204, 204, 204, 0.2)
 }
 
+h5 {
+    font-size: 40;
+}
+
 p {
     font-size: 20;
+}
+
+blockquote {
+    margin-right: 0px;
+}
+
+blockquote p {
+    text-align: right;
+}
+
+blockquote h3 {
+    text-align: right;
 }
 
 #main {
